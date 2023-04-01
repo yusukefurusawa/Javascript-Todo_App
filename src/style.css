@@ -22,7 +22,7 @@ button:hover{
     cursor: pointer;
 }
 
-
+/* htmlのアンチパターンを防ぐためliからpに変更 */
 p{
     margin-right: 8px;
 }
